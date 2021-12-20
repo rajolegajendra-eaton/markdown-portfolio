@@ -1,2 +1,2 @@
-Playing
-Watching
+- Playing
+- Watching
